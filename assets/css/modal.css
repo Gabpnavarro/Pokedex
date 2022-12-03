@@ -1,0 +1,18 @@
+#pokemonModal {
+    /* display: none; */
+    position: absolute;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.575);
+    transition: 0.3s;
+    width: 26rem;
+    z-index: 10;
+    top: 20px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+#modalClose {
+    text-align: right;
+    padding: 0.5rem;
+}
